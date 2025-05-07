@@ -1,8 +1,11 @@
+
+
+# :warning: Arquivado - Configuração do Ubuntu no WSL <!-- omit in toc -->
+
 > Repositório arquivado devido ao fato de eu ter migrado para o Linux definitivamente.
 > Se achar interessante, pode visualizar meu repositório de configuração para Fedora [clicando aqui](https://github.com/yurihbm/dot-files).
-> O repositório inclui configurações para tmux, neovim, solaar e scripts de configuração do sistema pós-instalação.
-
-# Configuração do Ubuntu no WSL <!-- omit in toc -->
+> 
+> O novo repositório inclui configurações para tmux, neovim, solaar e scripts de configuração do sistema pós-instalação.
 
 Este repositório contém o passo a passo para as configurações que devo realizar para configurar um ambiente de desenvolvimento no WSL utilizando o Ubuntu como distribuição Linux.
 
